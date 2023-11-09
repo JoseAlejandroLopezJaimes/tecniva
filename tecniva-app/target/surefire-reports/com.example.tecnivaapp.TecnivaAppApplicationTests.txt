@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.example.tecnivaapp.TecnivaAppApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 9.711 s - in com.example.tecnivaapp.TecnivaAppApplicationTests

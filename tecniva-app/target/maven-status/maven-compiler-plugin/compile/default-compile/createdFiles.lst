@@ -1,0 +1,6 @@
+com\example\tecnivaapp\controller\UsuariosController.class
+com\example\tecnivaapp\service\impl\UsuarioServiceImpl.class
+com\example\tecnivaapp\entities\Usuario.class
+com\example\tecnivaapp\dao\UsuarioRepository.class
+com\example\tecnivaapp\service\UsuarioService.class
+com\example\tecnivaapp\TecnivaAppApplication.class
